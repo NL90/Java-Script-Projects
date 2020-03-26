@@ -1,3 +1,4 @@
+# Counting your sleeping hours
 const getSleepHours = day => {
   day = day.toLowerCase();
   switch (day) {
