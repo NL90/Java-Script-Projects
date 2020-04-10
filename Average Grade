@@ -1,0 +1,21 @@
+# Average Final Grade:
+
+
+const finalGrade= (n1, n2, n3) => {
+	const av= (n1+n2+n3)/3;
+  
+  if ((n1<0 || n1>100) || (n2<0 || n2>100) || (n3<0 || n3>100))
+    return 'You have entered an invalid grade.';
+  else if (av>=0 && av<=59)
+    return 'F';
+  else if (av>=60 && av<=69)
+    return 'D';
+  else if (av>=70 && av<=79)
+    return 'C';
+  else if (av>=80 && av<=89)
+    return 'B';
+  else
+    return 'A';
+};
+
+console.log(finalGrade(60, 70, 100));
