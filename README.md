@@ -1,1 +1,3 @@
-# These (mini) projects are to remind my future ME and maybe also the new YOU of HOW fun it was when we just started to code. All those short lines, complicated looking syntax and the feeling of fullfillment after we wrote the right syntax are unreplaceable.
+# Simple JS Coding Projects from Codecademy.
+
+I have been using Codecademy PRO since February and these are my codes from all the tasks by Codecademy so far.
